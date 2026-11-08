@@ -1,0 +1,1 @@
+API quick test: start the app, then visit `/api/summary`, `/api/students`, and `/api/forecast` at localhost:8000. POST `/api/scenario` with JSON `{"current_placed":500,"total_students":700,"additional_placements":25}`.
